@@ -1,0 +1,11 @@
+C:\Users\azhar damir\Source\Repos\TuTo2\TuTo2\bin\Debug\TuTo2.exe.config
+C:\Users\azhar damir\Source\Repos\TuTo2\TuTo2\bin\Debug\TuTo2.exe
+C:\Users\azhar damir\Source\Repos\TuTo2\TuTo2\bin\Debug\TuTo2.pdb
+C:\Users\azhar damir\Source\Repos\TuTo2\TuTo2\obj\Debug\TuTo2.csproj.AssemblyReference.cache
+C:\Users\azhar damir\Source\Repos\TuTo2\TuTo2\obj\Debug\TuTo2.csproj.SuggestedBindingRedirects.cache
+C:\Users\azhar damir\Source\Repos\TuTo2\TuTo2\obj\Debug\TuTo2.Form1.resources
+C:\Users\azhar damir\Source\Repos\TuTo2\TuTo2\obj\Debug\TuTo2.Properties.Resources.resources
+C:\Users\azhar damir\Source\Repos\TuTo2\TuTo2\obj\Debug\TuTo2.csproj.GenerateResource.cache
+C:\Users\azhar damir\Source\Repos\TuTo2\TuTo2\obj\Debug\TuTo2.csproj.CoreCompileInputs.cache
+C:\Users\azhar damir\Source\Repos\TuTo2\TuTo2\obj\Debug\TuTo2.exe
+C:\Users\azhar damir\Source\Repos\TuTo2\TuTo2\obj\Debug\TuTo2.pdb
